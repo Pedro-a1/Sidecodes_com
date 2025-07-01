@@ -24,6 +24,12 @@ Admin Panel
 Link : https://trustbob.net/admin
 Email : admin@vironeer.com
 Password : Admin1234
+
+
+
+
+
+
 Top Features
 Multi-Business Support
 Each business owner can add and manage multiple businesses under a single account.
@@ -71,6 +77,12 @@ Two-Factor Authentication (2FA)
 Enhances user and admin account security by requiring a second form of authentication.
 Admin Dashboard
 Comprehensive admin panel to manage users, businesses, reviews, settings, and more.
+
+
+
+
+
+
 Requirements
 Server Requirements
 PHP 8.2x
